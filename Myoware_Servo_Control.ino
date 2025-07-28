@@ -10,7 +10,7 @@ void setup() {
 void loop() {
   int sensorValue = 0;
   for (int i = 0; i < 10; i++) {
-    sensorValue += analogRead(A3);
+    sensorValue += analogRead(A0);
     delay(1);
   }
   sensorValue /= 10; // Average over 10 readings
