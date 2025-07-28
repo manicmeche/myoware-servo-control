@@ -8,7 +8,6 @@ Control a servo motor using muscle signals with the MyoWare 2.0 EMG sensor and A
 - `myoware_servo.ino` — Arduino sketch
 - Wiring diagram
 - Images of the setup
-- STL files for the sensor mount (optional)
 
 ---
 
